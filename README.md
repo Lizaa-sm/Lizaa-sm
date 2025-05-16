@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Monaliza Soares, sou natural do Rio Grande do Norte. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Estou sempre buscando comprender os avanços tecnologicos e fazer parte desse crescimento. Estou apenas começando esse perfil, mas espero continuar avançando, acrescentando e evoluindo nesse ambiente.
+Me chamo Monaliza Soares, sou natural do Rio Grande do Norte. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Estou sempre buscando compreender os avanços tecnológicos e fazer parte desse crescimento. Estou apenas começando esse perfil, mas espero continuar avançando, acrescentando e evoluindo nesse ambiente.
 
 <p align="left">
     <a href="https://github.com/Lizaa-sm?tab=repositories&sort=stargazers">
