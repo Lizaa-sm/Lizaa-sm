@@ -6,6 +6,12 @@
 Me chamo Monaliza Soares, sou natural do Rio Grande do Norte. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Estou sempre buscando compreender os avanços tecnológicos e fazer parte desse crescimento. Estou apenas começando esse perfil, mas espero continuar avançando, acrescentando e evoluindo nesse ambiente.
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/monaliza-soares-a7359b206/"
+        <img
+            alt="LinKedIn"
+            title="Perfil no LinKedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
     <a href="https://github.com/Lizaa-sm?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
