@@ -14,6 +14,13 @@ Me chamo Monaliza Soares, sou natural do Rio Grande do Norte. Sou formada em Eng
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
     </a>
+    <a href="mailto:monalizasoaresm@gmail.com">
+    <img 
+        alt="Gmail"
+        title="Enviar e-mail"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+    </a>
     <a href="https://github.com/Lizaa-sm?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
