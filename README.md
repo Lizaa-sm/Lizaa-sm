@@ -3,7 +3,7 @@
 
 **`Engenheira Eletricista`**
 
-Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Estou sempre buscando compreender os avanços tecnológicos e fazer parte desse crescimento. Estou apenas começando esse perfil, mas espero continuar avançando, acrescentando e evoluindo nesse ambiente.
+Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Tenho interesse em ciência de dados, inteligência artificial e aplicações tecnológicas que conectam teoria à prática. Este perfil será meu espaço para compartilhar projetos, estudos e contribuições à comunidade, refletindo minha evolução profissional e acadêmica.
 
 <p align="left">
 </p>
