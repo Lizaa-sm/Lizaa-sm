@@ -57,14 +57,6 @@ Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecno
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
 />
-<img
-    align="left" 
-    alt="Fortran" 
-    title="Fortran"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg"        
-/>
 <img 
     align="left" 
     alt="WASM"
@@ -80,22 +72,6 @@ Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecno
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"    
 />
 <img 
     align="left" 
