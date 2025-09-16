@@ -20,7 +20,6 @@ Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecno
         title="Enviar e-mail"
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
----
 
 ### 🤖 Linguagens e Tecnologias
 
