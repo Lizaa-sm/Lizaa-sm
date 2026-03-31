@@ -1,7 +1,7 @@
 ## 
 # 👩🏻‍💻
 # 💫 About Me:
-Me chamo Monaliza Soares. Sou formada em Engenharia Elétrica e Ciência & Tecnologia. Atualmente estou cursando Mestrado em Engenharia Elétrica na área de Telecomunicações e Eletromagnetismo Aplicado. Tenho interesse em computação quântica, ciência de dados, inteligência artificial e aplicações tecnológicas que conectam teoria à prática. Este perfil será meu espaço para compartilhar projetos, estudos e contribuições à comunidade, através da minha evolução profissional e acadêmica.
+Electrical Engineer and Master’s student in Electrical Engineering, focused on RF circuit design and applications in quantum computing. Works on the design and simulation of cryogenic VCOs for qubit control, with experience in CMOS technologies and Cadence Virtuoso. Also develops data science projects using Python for data analysis and processing.
 
 
 ## 🌐 Socials:
